@@ -6,7 +6,9 @@ public class AppSaludo {
 
 		System.out.println("hola mundo : "+new Tierra().nombre());
 		
-		System.out.println("hasta luego mundo");
+		System.out.println("yo soy : "+new Marte().nombre());
+		
+		
 	}
 
 }
